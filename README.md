@@ -1,14 +1,11 @@
 # homework1
-First assignment.
+Homework 1 - Horiseon Refactoring
 
+Refactored provided code to add alt tags for enhanced accessibility. Code was reformatted and code was added to make to be more more legible. Reuploaded and resubmitted on 11/17 to correct a previous botched attempt to submit.
 
-I've provided here the HTML hopefully refactored hopefully satisfactorily. I was kind of unsure how to get it running on https://myrmoxenus.github.io/ but I think I figured it out.
+Application deployed at: https://myrmoxenus.github.io/homework1/
 
-I decided it was probably simpler to navigate the repository if I didn't have all the image files uploaded, but let me know if you would rather I upload everything so that it resembles more accurately a real project.
+Screenshot: 
+![alt text](assets/images/screenshot.png)
 
-index.html is the original file.
-Homework1.html is the refactored version I'm submitting as my assignment.
-
-
-Thanks in advance
--Zack
+For reasons I am unable to diagnose, on my desktop the image assosciated with "Social Media Marketing" doesn't appear to load. It is however loading correctly for me when I use other computers. Hopefully it is behaving functionally for you as well. 
