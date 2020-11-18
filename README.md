@@ -6,6 +6,6 @@ Refactored provided code to add alt tags for enhanced accessibility. Code was re
 Application deployed at: https://myrmoxenus.github.io/homework1/
 
 Screenshot: 
-![alt text](assets/images/screenshot.png)
+![Screenshot of Completed Horiseon Assignment](assets/screenshot.png)
 
 For reasons I am unable to diagnose, on my desktop the image assosciated with "Social Media Marketing" doesn't appear to load. It is however loading correctly for me when I use other computers. Hopefully it is behaving functionally for you as well. 
